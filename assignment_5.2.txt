@@ -1,0 +1,8 @@
+1)
+> -qnorm(0.95)
+[1] -1.644854
+2)
+
+Our test statistic is less than -1.64 so it now falls into the critical region! We now Reject the null hypothesis and conclude that the 1973 data provide evidence that the true proportion of
+students admitted to the graduate school of UCB in 1973 was significantly less than 40%.The
+data are not consistent with the officer’s claim at the a=0.05 significance level.What is going on, here? If we choose a=0.05 then we reject the null hypothesis, but if we choose a=0.01 then we fail to reject the null hypothesis. Our final conclusion seemsto depend on our selection of the significance level. This is bad; for a particular test, we never know whether our conclusion would have been different if we had chosen a different significance level.
